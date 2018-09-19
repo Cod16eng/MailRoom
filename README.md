@@ -1,2 +1,0 @@
-# MailRoom
-Mail Sorting Aplication
